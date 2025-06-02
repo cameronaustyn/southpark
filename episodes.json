@@ -1,0 +1,56 @@
+[
+  {
+    "season": 1,
+    "episode": 1,
+    "title": "Cartman Gets an Anal Probe",
+    "description": "Cartman explains the odd nightmare he had about alien visitors abducting him.",
+    "thumbnail": "assets/thumbnails/s01e01.jpg",
+    "link": "https://www.southparkstudios.com/episodes/0f7z6z/south-park-cartman-gets-an-anal-probe-season-1-ep-1",
+    "character_icon": "assets/icons/cartman.png"
+  },
+  {
+    "season": 1,
+    "episode": 2,
+    "title": "Weight Gain 4000",
+    "description": "Cartman's environmental essay wins a national contest, and Kathie Lee Gifford comes to South Park to present the award.",
+    "thumbnail": "assets/thumbnails/s01e02.jpg",
+    "link": "https://www.southparkstudios.com/episodes/0f7z6z/south-park-weight-gain-4000-season-1-ep-2",
+    "character_icon": "assets/icons/cartman.png"
+  },
+  {
+    "season": 1,
+    "episode": 3,
+    "title": "Volcano",
+    "description": "The boys go on a hunting trip with the guidance of Mr. Hankey and face a volcano eruption.",
+    "thumbnail": "assets/thumbnails/s01e03.jpg",
+    "link": "https://www.southparkstudios.com/episodes/3vjh3q/south-park-volcano-season-1-ep-3",
+    "character_icon": "assets/icons/kyle.png"
+  },
+  {
+    "season": 2,
+    "episode": 5,
+    "title": "Terrance and Phillip in Not Without My Anus",
+    "description": "Kyle's parents take him to Canada to celebrate a holiday with Terrance and Phillip.",
+    "thumbnail": "assets/thumbnails/s02e05.jpg",
+    "link": "https://www.southparkstudios.com/episodes/ymhwqs/south-park-terrance-and-phillip-in-not-without-my-anus-season-2-ep-5",
+    "character_icon": "assets/icons/kyle.png"
+  },
+  {
+    "season": 4,
+    "episode": 5,
+    "title": "Chef Goes Nanners",
+    "description": "Chef protests the South Park flag, leading to a town uproar.",
+    "thumbnail": "assets/thumbnails/s04e05.jpg",
+    "link": "https://www.southparkstudios.com/episodes/7n30ij/south-park-chef-goes-nanners-season-4-ep-5",
+    "character_icon": "assets/icons/chef.png"
+  },
+  {
+    "season": 7,
+    "episode": 1,
+    "title": "Cancelled",
+    "description": "The boys discover the world is a TV show and try to stop it from being cancelled.",
+    "thumbnail": "assets/thumbnails/s07e01.jpg",
+    "link": "https://www.southparkstudios.com/episodes/21mkvq/south-park-cancelled-season-7-ep-1",
+    "character_icon": "assets/icons/stan.png"
+  }
+]
